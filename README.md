@@ -2,9 +2,7 @@
 
 The project is the course project for the HKUST COMP 4321 course. It is a web search engine based on vector space model.
 
-## Available Scripts
-
-In the project directory, you can run:
+## Start the UI
 
 ### `npm start`
 
