@@ -6,7 +6,7 @@ The project is the course project for the HKUST COMP 4321 course. It is a web se
 
 ### `npm install`
 
-To install all the required depedency
+To install all the required dependency
 
 ### `npm start`
 
@@ -15,14 +15,6 @@ Visit the development server at http://localhost:3000 with your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-
-
-To run the client:
-
-
-npm run dev
-
 
 
 
