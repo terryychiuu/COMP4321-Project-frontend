@@ -1,10 +1,12 @@
-# COMP4321-Project-frontend
+# COMP4321 Web Search Engine (backend)
 
 **Solo project** — Course project for HKUST COMP 4321. A web search engine with three main parts: **crawler**, **retrieval system**, and **search engine website**.
 
 - **Crawler**: Recursively fetches and parses textual data from the web and persists it for indexing.
 - **Retrieval**: Applies TF×IDF, Google’s PageRank, and weighted search to user queries and parsed data, returning the top 50 results.
 - **Website**: User-friendly interface to access the search engine.
+
+![](reference/Screenshot.png)
 
 ### Highlights
 
