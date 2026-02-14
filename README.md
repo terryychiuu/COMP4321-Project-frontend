@@ -21,5 +21,6 @@ You may also see any lint errors in the console.
 This is the frontend component of the COMP4321 Project. The backend is available at:
 - [COMP4321-Project-backend](https://github.com/terryychiuu/COMP4321-Project-backend)
 
-
+## Project Demo
+- [Watch the demo on YouTube](https://youtu.be/VRCBY92hB9c)
 
