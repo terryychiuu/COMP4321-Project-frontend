@@ -16,5 +16,10 @@ Visit the development server at http://localhost:3000 with your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Related Repositories
+
+This is the frontend component of the COMP4321 Project. The backend is available at:
+- [COMP4321-Project-backend](https://github.com/terryychiuu/COMP4321-Project-backend)
+
 
 
